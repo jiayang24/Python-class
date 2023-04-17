@@ -16,7 +16,7 @@ Watch my *[Python class](https://github.com/jiayang24/Python-class/tree/main/Pyt
   * This file shows the idea of infinite loop,reminding one of the 3 bugs in using while loop
 * [steeplechase](https://github.com/jiayang24/Python-class/blob/main/Python%20class/SC001_workshop/SC001_lecture02/Steeplechase.py)
   *  Karel crosses hurdles in a 12x12 world with a for loop 
-* [beeper row](link)
+* [beeper row](https://github.com/jiayang24/Python-class/blob/main/Python%20class/SC001_workshop/SC001_lecture02/BeeperRow.py)
   * This program makes Karel fill up Street 1 with beepers
 * [beeper row adv](link)
   * This program makes Karel fill up Street 1 with some beepers already existed
