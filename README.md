@@ -6,3 +6,7 @@ Watch my *[Python class](https://github.com/jiayang24/Python-class/tree/main/Pyt
 # Karell's world
 * [move to the end](https://github.com/jiayang24/Python-class/blob/main/Python%20class/SC001_workshop/SC001_lecture01/MoveToTheEnd.py)
   * Karell move to the end
+* [potholefiling](link)
+  * Karell move to the end
+* [set up](link)
+  * Karell move to the end
